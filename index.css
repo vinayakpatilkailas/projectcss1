@@ -1,0 +1,147 @@
+.flex-container{
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h4{
+    display: inline-block;
+    position: relative;
+    left: 560px;
+    bottom: 10px;
+    font-size: 30px;
+    color: grey;
+}
+a{
+    text-decoration: none;
+}
+
+.vin{
+    display: inline-block;
+    position: relative;
+    left: 180px;
+
+}
+.material-icons{
+    position: relative;
+    left: 550px;
+    display: inline-block;
+    
+}
+h1{
+    display: inline-block;
+    font-size: 50px;
+   
+}
+
+.flexitem1{ 
+    border: 1px solid rgb(226, 63, 63);
+    height: 300px;
+    width: 200px;
+    text-align: center;
+    box-shadow: 7px 7px 15px grey;
+    border-radius: 15px;
+}
+
+font{
+    color: rgb(226, 63, 63);
+    font-size: 30px;
+    font-weight:100;
+    
+}
+s{
+    color: rgb(226, 63, 63);
+    font-weight: bold;
+    font-size: 25px;   
+}
+.dish{
+    font-size: 25px;
+    display: inline;
+   
+}
+.flexitem2{ 
+    border: 1px solid rgb(226, 63, 63);
+    height: 300px;
+    width: 200px;
+    text-align: center;
+    box-shadow: 7px 7px 15px grey;
+    border-radius: 15px;
+}
+
+.flexitem3{ 
+    border: 1px solid rgb(226, 63, 63);
+    height: 300px;
+    width: 200px;
+    text-align: center;
+    box-shadow: 7px 7px 15px grey;
+    border-radius: 15px;
+}
+
+.flexitem4{ 
+    border: 1px solid rgb(226, 63, 63);
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    box-shadow: 7px 7px 15px grey;
+    border-radius: 15px;
+}
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+    color: grey;
+    font-size: 40px;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    left: 550px;
+}
+h2{
+    text-align: center;
+    font-size: 60px;
+}
+
+.vin1{
+    position: relative;
+    left: 32%;
+    border: 1px solid rgb(226, 63, 63);
+    height: 400px;
+    width: 450px;
+    text-align: center;
+    box-shadow: 7px 7px 15px grey;
+    border-radius: 15px;
+}
+
+
+.listcon{
+    padding: 10px;
+    border: 2px solid rgb(226, 63, 63);
+    height: 180px;
+    width: 360px;
+    border-radius: 10px;
+    text-align: center;
+    color: rgb(226, 63, 63);
+    position: relative;
+    left: 35%;
+    top: 200px;
+    background-color: white;
+}
+p{
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.Itemcon{
+    padding: 10px;
+    border: 2px solid rgb(226, 63, 63);
+    height: 180px;
+    width: 360px;
+    border-radius: 10px;
+    text-align: center;
+    color: rgb(226, 63, 63);
+    position: relative;
+    left: 35%;
+    top: 200px;
+    background-color: white;
+}
+.blur{
+    filter: blur(5px);
+}
